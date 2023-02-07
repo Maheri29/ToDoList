@@ -1,0 +1,5 @@
+test uniotaire anaty wbt
+test integration anaty bbt
+
+jest no framework fanaovana test ampiasaina satrian io misy ao par default
+flexible 

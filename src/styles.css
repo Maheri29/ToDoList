@@ -1,0 +1,20 @@
+.btn{
+  color: transparent;
+  border: transparent;
+}
+
+.full {
+  width: 100%;
+  border-collapse: collapse;
+  display: flex;
+  padding: 100px;
+  
+}
+
+.todo,
+.done {
+  width: 50%;
+  float: left;
+  border: 1px solid black;
+  padding: 8px;
+}
